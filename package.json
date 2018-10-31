@@ -3,7 +3,7 @@
   "version": "5.2.0",
   "description": "Localytics Plugin for Cordova/PhoneGap",
   "cordova": {
-    "id": "com.localytics.phonegap.LocalyticsPlugin",
+    "id": "localytics-cordova",
     "platforms": [
       "ios",
       "android"
